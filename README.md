@@ -9,7 +9,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 📫 How to reach me: jvkrishna23@gmail.com
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/C4E03AQG2MifLuaeV_w/profile-displayphoto-shrink_800_800/0/1624520708560?e=1698278400&v=beta&t=oLEiu-tKaHRDGFRorbS88G_8_6J8B-SHDtTavus0mdA" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/C4E03AQG2MifLuaeV_w/profile-displayphoto-shrink_800_800/0/1624520708560?e=1698278400&v=beta&t=oLEiu-tKaHRDGFRorbS88G_8_6J8B-SHDtTavus0mdA" align="center" style="width: 10%" />
 </div>  
   
 
