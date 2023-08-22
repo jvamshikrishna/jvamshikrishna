@@ -1,30 +1,20 @@
-### Hi there 👋, This is Vamshi
-#### Software Engineer
+### <div align="center">I'm Vamshi, a full-time full-stack developer 👨‍💻🚀</div>  
+
 I'm a full-stack developer with over 6 years of experience in the Microsoft Technology Stack. I specialize in .NET, C#, MS SQL, and have expertise in both frontend and backend development. My skills extend to cloud technologies such as Azure, where I've built cloud-native applications. I'm well-versed in Angular UI, Git, and JavaScript. My projects span various domains including healthcare, insurance, and data migration. I'm passionate about clean code, architecture, and continuous improvement.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+<div align="center">
+<img src="https://media.licdn.com/dms/image/C4E03AQG2MifLuaeV_w/profile-displayphoto-shrink_800_800/0/1624520708560?e=1698278400&v=beta&t=oLEiu-tKaHRDGFRorbS88G_8_6J8B-SHDtTavus0mdA" align="left" style="width: 20%" />
+</div>  
 
 - 🔭 I’m currently working as a software developer 
-- 🌱 I’m currently learning Architecting application on enterprise level 
+- 🌱 I’m currently learning Architecting application on enterprise level and Docker, Kubernetes
 - 📫 How to reach me: jvkrishna23@gmail.com
-
-<div align="center">
-<img src="https://media.licdn.com/dms/image/C4E03AQG2MifLuaeV_w/profile-displayphoto-shrink_800_800/0/1624520708560?e=1698278400&v=beta&t=oLEiu-tKaHRDGFRorbS88G_8_6J8B-SHDtTavus0mdA" align="center" style="width: 10%" />
-</div>  
-  
-
-### <div align="center">I'm Vamshi, a full-time full-stack developer 👨‍💻🚀</div>  
-  
+   
 
 - 🔭 I’m currently working on https://github.com/jvamshikrishna/JVKExpensesTracker  
-  
-
-- 🌱 I’m currently learning Docker and Kubernetes  
-  
 
 - ❓ Ask me about anything related to .NET tech stack and related technologies  
   
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 
