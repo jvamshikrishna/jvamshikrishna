@@ -1,4 +1,4 @@
-### <div align="center">I'm Vamshi, a full-time full-stack developer 👨‍💻🚀</div>  
+### <div align="center">I'm Vamshi, a full-stack developer 👨‍💻🚀</div>  
 
 I'm a full-stack developer with over 6 years of experience in the Microsoft Technology Stack. I specialize in .NET, C#, MS SQL, and have expertise in both frontend and backend development. My skills extend to cloud technologies such as Azure, where I've built cloud-native applications. I'm well-versed in Angular UI, Git, and JavaScript. My projects span various domains including healthcare, insurance, and data migration. I'm passionate about clean code, architecture, and continuous improvement.
 
