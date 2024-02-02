@@ -8,7 +8,7 @@ I'm a full-stack developer with over 6 years of experience in the Microsoft Tech
 
 - 🔭 I’m currently working as a software developer 
 - 🌱 I’m currently learning Architecting application on enterprise level and Docker, Kubernetes
-- 📫 How to reach me: jvkrishna23@gmail.com
+- 📫 How to reach me: vamshi.jillapally@gmail.com
    
 
 - 🔭 I’m currently working on https://github.com/jvamshikrishna/JVKExpensesTracker  
